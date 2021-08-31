@@ -37,7 +37,7 @@
 ## 2. 编译
 
 ```console
-$ git clone -b linux --single-branch https://github.com/DoubleLabyrinth/navicat-keygen.git #克隆不了可以用https://gitee.com/kite0101/navicat-keygen.git
+$ git clone https://github.com/zzzsyyy/navicat-keygen.git
 $ cd navicat-keygen
 $ make all
 ```
