@@ -35,7 +35,7 @@
 ## 2. Build
 
 ```console
-$ git clone https://github.com/zzzsyyy/navicat-keygen.git
+$ git clone https://github.com/N4nnn/navicat-keygen.git
 $ cd navicat-keygen
 $ make all
 ```
